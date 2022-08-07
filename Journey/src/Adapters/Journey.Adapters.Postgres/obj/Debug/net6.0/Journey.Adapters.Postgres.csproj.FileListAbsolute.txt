@@ -15,3 +15,5 @@
 /home/vinny/Documents/Senai/Git/git-api/Journey/src/Adapters/Journey.Adapters.Postgres/obj/Debug/net6.0/Journey.Adapters.Postgres.dll
 /home/vinny/Documents/Senai/Git/git-api/Journey/src/Adapters/Journey.Adapters.Postgres/obj/Debug/net6.0/ref/Journey.Adapters.Postgres.dll
 /home/vinny/Documents/Senai/Git/git-api/Journey/src/Adapters/Journey.Adapters.Postgres/obj/Debug/net6.0/Journey.Adapters.Postgres.pdb
+/home/vinny/Documents/Senai/Git/git-api/Journey/src/Adapters/Journey.Adapters.Postgres/bin/Debug/net6.0/Journey.Adapters.Postgres.runtimeconfig.json
+/home/vinny/Documents/Senai/Git/git-api/Journey/src/Adapters/Journey.Adapters.Postgres/obj/Debug/net6.0/Journey.Adapters.Postgres.genruntimeconfig.cache

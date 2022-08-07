@@ -36,3 +36,11 @@
 /home/vinny/Documents/Senai/Git/git-api/Journey/src/Services/Journey.Ports.Api/obj/Debug/net6.0/ref/Journey.Ports.Api.dll
 /home/vinny/Documents/Senai/Git/git-api/Journey/src/Services/Journey.Ports.Api/obj/Debug/net6.0/Journey.Ports.Api.pdb
 /home/vinny/Documents/Senai/Git/git-api/Journey/src/Services/Journey.Ports.Api/obj/Debug/net6.0/Journey.Ports.Api.genruntimeconfig.cache
+/home/vinny/Documents/Senai/Git/git-api/Journey/src/Services/Journey.Ports.Api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/home/vinny/Documents/Senai/Git/git-api/Journey/src/Services/Journey.Ports.Api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/vinny/Documents/Senai/Git/git-api/Journey/src/Services/Journey.Ports.Api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/vinny/Documents/Senai/Git/git-api/Journey/src/Services/Journey.Ports.Api/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/home/vinny/Documents/Senai/Git/git-api/Journey/src/Services/Journey.Ports.Api/bin/Debug/net6.0/Npgsql.dll
+/home/vinny/Documents/Senai/Git/git-api/Journey/src/Services/Journey.Ports.Api/bin/Debug/net6.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/home/vinny/Documents/Senai/Git/git-api/Journey/src/Services/Journey.Ports.Api/bin/Debug/net6.0/Humanizer.dll
+/home/vinny/Documents/Senai/Git/git-api/Journey/src/Services/Journey.Ports.Api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
