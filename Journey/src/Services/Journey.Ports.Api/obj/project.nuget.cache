@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "cPJPOtiFc70zm1mEwrpv4wkManLH3i0wc9/ETtVSX145zIgdtu4NpI66rM6B2nZ3dlXhWWCvt5WPlVlYQI82FQ==",
+  "success": true,
+  "projectFilePath": "/home/vinny/Documents/Senai/Git/git-api/Journey/src/Services/Journey.Ports.Api/Journey.Ports.Api.csproj",
+  "expectedPackageFiles": [
+    "/home/vinny/.nuget/packages/flunt/2.0.5/flunt.2.0.5.nupkg.sha512",
+    "/home/vinny/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/home/vinny/.nuget/packages/microsoft.extensions.dependencyinjection/7.0.0-preview.6.22324.4/microsoft.extensions.dependencyinjection.7.0.0-preview.6.22324.4.nupkg.sha512",
+    "/home/vinny/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0-preview.6.22324.4/microsoft.extensions.dependencyinjection.abstractions.7.0.0-preview.6.22324.4.nupkg.sha512",
+    "/home/vinny/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/vinny/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/home/vinny/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/home/vinny/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/home/vinny/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
+    "/home/vinny/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.6/microsoft.aspnetcore.app.ref.6.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}

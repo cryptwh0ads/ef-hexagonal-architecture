@@ -1,0 +1,13 @@
+Journey/**/**/**/obj
+Journey/.idea
+Journey/.vscode
+Journey/src/Adapters/Journey.Adapters.Postgres/obj
+Journey/src/Adapters/Journey.Adapters.Postgres/bin
+Journey/src/Modules/Journey.Modules.Application/bin
+Journey/src/Modules/Journey.Modules.Application/obj
+Journey/src/Modules/Journey.Modules.Domain/bin
+Journey/src/Modules/Journey.Modules.Domain/obj
+Journey/src/Modules/Journey.Modules.Infra/bin
+Journey/src/Modules/Journey.Modules.Infra/obj
+Journey/src/Services/Journey.Ports.Api/bin
+Journey/src/Services/Journey.Ports.Api/obj

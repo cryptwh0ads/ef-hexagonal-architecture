@@ -1,0 +1,15 @@
+/home/vinny/Documents/Senai/Git/git-api/Journey/src/Modules/Journey.Modules.Application/bin/Debug/net6.0/Journey.Modules.Application.deps.json
+/home/vinny/Documents/Senai/Git/git-api/Journey/src/Modules/Journey.Modules.Application/bin/Debug/net6.0/Journey.Modules.Application.dll
+/home/vinny/Documents/Senai/Git/git-api/Journey/src/Modules/Journey.Modules.Application/bin/Debug/net6.0/ref/Journey.Modules.Application.dll
+/home/vinny/Documents/Senai/Git/git-api/Journey/src/Modules/Journey.Modules.Application/bin/Debug/net6.0/Journey.Modules.Application.pdb
+/home/vinny/Documents/Senai/Git/git-api/Journey/src/Modules/Journey.Modules.Application/bin/Debug/net6.0/Journey.Modules.Domain.dll
+/home/vinny/Documents/Senai/Git/git-api/Journey/src/Modules/Journey.Modules.Application/bin/Debug/net6.0/Journey.Modules.Domain.pdb
+/home/vinny/Documents/Senai/Git/git-api/Journey/src/Modules/Journey.Modules.Application/obj/Debug/net6.0/Journey.Modules.Application.csproj.AssemblyReference.cache
+/home/vinny/Documents/Senai/Git/git-api/Journey/src/Modules/Journey.Modules.Application/obj/Debug/net6.0/Journey.Modules.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/vinny/Documents/Senai/Git/git-api/Journey/src/Modules/Journey.Modules.Application/obj/Debug/net6.0/Journey.Modules.Application.AssemblyInfoInputs.cache
+/home/vinny/Documents/Senai/Git/git-api/Journey/src/Modules/Journey.Modules.Application/obj/Debug/net6.0/Journey.Modules.Application.AssemblyInfo.cs
+/home/vinny/Documents/Senai/Git/git-api/Journey/src/Modules/Journey.Modules.Application/obj/Debug/net6.0/Journey.Modules.Application.csproj.CoreCompileInputs.cache
+/home/vinny/Documents/Senai/Git/git-api/Journey/src/Modules/Journey.Modules.Application/obj/Debug/net6.0/Journey.Modules.Application.csproj.CopyComplete
+/home/vinny/Documents/Senai/Git/git-api/Journey/src/Modules/Journey.Modules.Application/obj/Debug/net6.0/Journey.Modules.Application.dll
+/home/vinny/Documents/Senai/Git/git-api/Journey/src/Modules/Journey.Modules.Application/obj/Debug/net6.0/ref/Journey.Modules.Application.dll
+/home/vinny/Documents/Senai/Git/git-api/Journey/src/Modules/Journey.Modules.Application/obj/Debug/net6.0/Journey.Modules.Application.pdb

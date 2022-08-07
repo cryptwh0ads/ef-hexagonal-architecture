@@ -1,0 +1,12 @@
+/home/vinny/Documents/Senai/Git/git-api/Journey/src/Modules/Journey.Modules.Domain/bin/Debug/net6.0/Journey.Modules.Domain.deps.json
+/home/vinny/Documents/Senai/Git/git-api/Journey/src/Modules/Journey.Modules.Domain/bin/Debug/net6.0/Journey.Modules.Domain.dll
+/home/vinny/Documents/Senai/Git/git-api/Journey/src/Modules/Journey.Modules.Domain/bin/Debug/net6.0/ref/Journey.Modules.Domain.dll
+/home/vinny/Documents/Senai/Git/git-api/Journey/src/Modules/Journey.Modules.Domain/bin/Debug/net6.0/Journey.Modules.Domain.pdb
+/home/vinny/Documents/Senai/Git/git-api/Journey/src/Modules/Journey.Modules.Domain/obj/Debug/net6.0/Journey.Modules.Domain.csproj.AssemblyReference.cache
+/home/vinny/Documents/Senai/Git/git-api/Journey/src/Modules/Journey.Modules.Domain/obj/Debug/net6.0/Journey.Modules.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/vinny/Documents/Senai/Git/git-api/Journey/src/Modules/Journey.Modules.Domain/obj/Debug/net6.0/Journey.Modules.Domain.AssemblyInfoInputs.cache
+/home/vinny/Documents/Senai/Git/git-api/Journey/src/Modules/Journey.Modules.Domain/obj/Debug/net6.0/Journey.Modules.Domain.AssemblyInfo.cs
+/home/vinny/Documents/Senai/Git/git-api/Journey/src/Modules/Journey.Modules.Domain/obj/Debug/net6.0/Journey.Modules.Domain.csproj.CoreCompileInputs.cache
+/home/vinny/Documents/Senai/Git/git-api/Journey/src/Modules/Journey.Modules.Domain/obj/Debug/net6.0/Journey.Modules.Domain.dll
+/home/vinny/Documents/Senai/Git/git-api/Journey/src/Modules/Journey.Modules.Domain/obj/Debug/net6.0/ref/Journey.Modules.Domain.dll
+/home/vinny/Documents/Senai/Git/git-api/Journey/src/Modules/Journey.Modules.Domain/obj/Debug/net6.0/Journey.Modules.Domain.pdb

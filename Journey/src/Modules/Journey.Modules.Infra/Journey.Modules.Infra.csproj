@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Adapters\Journey.Adapters.Postgres\Journey.Adapters.Postgres.csproj" />
+    <ProjectReference Include="..\Journey.Modules.Application\Journey.Modules.Application.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+</Project>

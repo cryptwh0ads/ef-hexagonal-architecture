@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "jPcS8dgVl+olF70bd0xD1SGN2TwpmmAUuxcm7rc6f4A=",
+  "Source": "Journey.Ports.Api",
+  "BasePath": "_content/Journey.Ports.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

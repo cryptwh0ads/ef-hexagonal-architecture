@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "p+RDlx9l8RfOJ/6Z4qWSY4bwhzAd7OwI0qQi8Xjc32DwlYj2fPaWPfPOkTPp9rvqhLCA511qMUOLe2RsxwyRhQ==",
+  "success": true,
+  "projectFilePath": "/home/vinny/Documents/Senai/Git/git-api/Journey/src/Modules/Journey.Modules.Domain/Journey.Modules.Domain.csproj",
+  "expectedPackageFiles": [
+    "/home/vinny/.nuget/packages/flunt/2.0.5/flunt.2.0.5.nupkg.sha512",
+    "/home/vinny/.nuget/packages/microsoft.extensions.dependencyinjection/7.0.0-preview.6.22324.4/microsoft.extensions.dependencyinjection.7.0.0-preview.6.22324.4.nupkg.sha512",
+    "/home/vinny/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0-preview.6.22324.4/microsoft.extensions.dependencyinjection.abstractions.7.0.0-preview.6.22324.4.nupkg.sha512",
+    "/home/vinny/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.6/microsoft.aspnetcore.app.ref.6.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,268 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/vinny/Documents/Senai/Git/git-api/Journey/src/Modules/Journey.Modules.Infra/Journey.Modules.Infra.csproj": {}
+  },
+  "projects": {
+    "/home/vinny/Documents/Senai/Git/git-api/Journey/src/Adapters/Journey.Adapters.Postgres/Journey.Adapters.Postgres.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/vinny/Documents/Senai/Git/git-api/Journey/src/Adapters/Journey.Adapters.Postgres/Journey.Adapters.Postgres.csproj",
+        "projectName": "Journey.Adapters.Postgres",
+        "projectPath": "/home/vinny/Documents/Senai/Git/git-api/Journey/src/Adapters/Journey.Adapters.Postgres/Journey.Adapters.Postgres.csproj",
+        "packagesPath": "/home/vinny/.nuget/packages/",
+        "outputPath": "/home/vinny/Documents/Senai/Git/git-api/Journey/src/Adapters/Journey.Adapters.Postgres/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/vinny/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/vinny/Documents/Senai/Git/git-api/Journey/src/Modules/Journey.Modules.Application/Journey.Modules.Application.csproj": {
+                "projectPath": "/home/vinny/Documents/Senai/Git/git-api/Journey/src/Modules/Journey.Modules.Application/Journey.Modules.Application.csproj"
+              },
+              "/home/vinny/Documents/Senai/Git/git-api/Journey/src/Modules/Journey.Modules.Domain/Journey.Modules.Domain.csproj": {
+                "projectPath": "/home/vinny/Documents/Senai/Git/git-api/Journey/src/Modules/Journey.Modules.Domain/Journey.Modules.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.6, 6.0.6]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.106/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/vinny/Documents/Senai/Git/git-api/Journey/src/Modules/Journey.Modules.Application/Journey.Modules.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/vinny/Documents/Senai/Git/git-api/Journey/src/Modules/Journey.Modules.Application/Journey.Modules.Application.csproj",
+        "projectName": "Journey.Modules.Application",
+        "projectPath": "/home/vinny/Documents/Senai/Git/git-api/Journey/src/Modules/Journey.Modules.Application/Journey.Modules.Application.csproj",
+        "packagesPath": "/home/vinny/.nuget/packages/",
+        "outputPath": "/home/vinny/Documents/Senai/Git/git-api/Journey/src/Modules/Journey.Modules.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/vinny/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/vinny/Documents/Senai/Git/git-api/Journey/src/Modules/Journey.Modules.Domain/Journey.Modules.Domain.csproj": {
+                "projectPath": "/home/vinny/Documents/Senai/Git/git-api/Journey/src/Modules/Journey.Modules.Domain/Journey.Modules.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.6, 6.0.6]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.106/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/vinny/Documents/Senai/Git/git-api/Journey/src/Modules/Journey.Modules.Domain/Journey.Modules.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/vinny/Documents/Senai/Git/git-api/Journey/src/Modules/Journey.Modules.Domain/Journey.Modules.Domain.csproj",
+        "projectName": "Journey.Modules.Domain",
+        "projectPath": "/home/vinny/Documents/Senai/Git/git-api/Journey/src/Modules/Journey.Modules.Domain/Journey.Modules.Domain.csproj",
+        "packagesPath": "/home/vinny/.nuget/packages/",
+        "outputPath": "/home/vinny/Documents/Senai/Git/git-api/Journey/src/Modules/Journey.Modules.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/vinny/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Flunt": {
+              "target": "Package",
+              "version": "[2.0.5, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0-preview.6.22324.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.6, 6.0.6]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.106/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/vinny/Documents/Senai/Git/git-api/Journey/src/Modules/Journey.Modules.Infra/Journey.Modules.Infra.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/vinny/Documents/Senai/Git/git-api/Journey/src/Modules/Journey.Modules.Infra/Journey.Modules.Infra.csproj",
+        "projectName": "Journey.Modules.Infra",
+        "projectPath": "/home/vinny/Documents/Senai/Git/git-api/Journey/src/Modules/Journey.Modules.Infra/Journey.Modules.Infra.csproj",
+        "packagesPath": "/home/vinny/.nuget/packages/",
+        "outputPath": "/home/vinny/Documents/Senai/Git/git-api/Journey/src/Modules/Journey.Modules.Infra/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/vinny/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/vinny/Documents/Senai/Git/git-api/Journey/src/Adapters/Journey.Adapters.Postgres/Journey.Adapters.Postgres.csproj": {
+                "projectPath": "/home/vinny/Documents/Senai/Git/git-api/Journey/src/Adapters/Journey.Adapters.Postgres/Journey.Adapters.Postgres.csproj"
+              },
+              "/home/vinny/Documents/Senai/Git/git-api/Journey/src/Modules/Journey.Modules.Application/Journey.Modules.Application.csproj": {
+                "projectPath": "/home/vinny/Documents/Senai/Git/git-api/Journey/src/Modules/Journey.Modules.Application/Journey.Modules.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.6, 6.0.6]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.106/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
